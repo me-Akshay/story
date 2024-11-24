@@ -1,6 +1,1 @@
-so finally i am learning to use git hurrrayyy
-
-
-
-Now i am updating my ch1 in the main branch and then commit ing it and will see if changes refelect int
-my github repo or not
+this is newf branch
